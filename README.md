@@ -1,6 +1,6 @@
 # WestweingAutomation
 
-Westweing E-commerce application Automation.
+**bold**Westweing E-commerce application Automation.
 
 System requirements and Installation instructions
 
