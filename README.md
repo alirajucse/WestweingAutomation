@@ -20,6 +20,8 @@
 
 -Copy and paste your python37/Scripts folder path in your local machine Path variable under Environment variables(How to find environment variables in local macine please visit https://www.architectryan.com/2018/08/31/how-to-change-environment-variables-on-windows-10) 
 
+-Open the project in Pycharm
+
 
 **Command to run test case from Pycharm terminal**
 
