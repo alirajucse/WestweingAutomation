@@ -1,6 +1,6 @@
-# WestweingAutomation
+# WestwingAutomation
 
-**Westweing E-commerce application Automation.**
+**Westwing E-commerce application Automation.**
 
 **System requirements and Installation instructions**
 
