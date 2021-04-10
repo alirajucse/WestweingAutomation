@@ -28,12 +28,6 @@ robot -d Results TestCases/SmokeTestCases.robot
 
 **Development**
 
-See CONTRIBUTING.md for development instructions.
-Core team
-
-In order of appearance.
-
-    Ali Raju
 
 Contributors
 
