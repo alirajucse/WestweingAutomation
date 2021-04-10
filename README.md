@@ -10,7 +10,7 @@
 
 -Install RobotFramework-SeleniumLibrary
 
--Install Chrome/Firefox/Edge driver(I recommend use chrome)
+-Install Chrome/Firefox/Edge driver(I would recommend to use chrome)
 
 **Steps to run the project**
 
